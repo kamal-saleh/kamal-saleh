@@ -68,5 +68,3 @@ I specialize in scalable gameplay systems, clean architecture, and impactful use
 - Unity Game Developer — Gameit.ai (2022)
 - Unity Game Developer — Inspire.eg (2018)
 - Unity Game Developer — Hexel Labs (2017)
-
-
