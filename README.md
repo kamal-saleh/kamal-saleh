@@ -8,16 +8,16 @@ I focus on building scalable gameplay systems, clean architecture, and engaging 
 ---
 
 ## 🛠️ Tech Stack
-![Unity](https://img.shields.io/badge/Unity-black)
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-black)
-![C#](https://img.shields.io/badge/C%23-purple)
-![C++](https://img.shields.io/badge/C%2B%2B-blue)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![AR](https://img.shields.io/badge/AR-orange)
 ![VR](https://img.shields.io/badge/VR-red)
-![Git](https://img.shields.io/badge/Git-orange)
-![Jira](https://img.shields.io/badge/Jira-blue)
-![Trello](https://img.shields.io/badge/Trello-lightblue)
-![Photoshop](https://img.shields.io/badge/Photoshop-darkblue)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
