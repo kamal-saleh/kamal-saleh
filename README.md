@@ -58,11 +58,6 @@ I specialize in scalable gameplay systems, clean architecture, and impactful use
 
 ---
 
-## 📊 GitHub Stats
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal-saleh&show_icons=true&theme=dark)
-
----
-
 ## 🌍 Languages
 - Arabic
 - English
