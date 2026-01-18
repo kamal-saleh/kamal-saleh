@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Kamal Saleh
 ### Unity Game Developer | AR & VR | Simulation & Educational Games
 
-🎮 Unity Game Developer with 6+ years of experience building entertainment, simulation, and educational games
+🎮 Unity Game Developer with 7+ years of experience building entertainment, simulation, and educational games
 and immersive AR/VR applications using Unity and Unreal Engine 5.
 I specialize in scalable gameplay systems, clean architecture, and impactful user experiences.
 
